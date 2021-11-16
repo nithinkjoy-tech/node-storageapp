@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
-    "aws-sdk": "^2.702.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^5.0.0",
     "compression": "^1.7.4",
     "config": "^3.3.1",
